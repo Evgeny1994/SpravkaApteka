@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpravkaApteka</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="n1">
+        <item>glkkhkgkhgkhghgh</item>
+        <item>hghjghsghg</item>
+        <item>ghghhghghglhgkh</item>
+    </string-array>
+    <string name="exit">Выход</string>
+    <string name="katalog">Каталог</string>
+    <string name="home">hgjhghdghghd</string>
+    <string name="search">Поиск</string>
+    <string name="settings">Настройки</string>
+    <string name="ex">Выйти</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string-array name="n2">
+        <item>Косметика</item>
+        <item>Covid 19</item>
+        <item>Матери и ребёнку</item>
+        <item>Простуда</item>
+        <item>Насморк</item>
+        <item>Медицинские приборы</item>
+        <item>Боль в горле</item>
+        <item>Витамины</item>
+    </string-array>
+    <string name="dark">Black</string>
+    <string name="white">White</string>
+    <string name="s1">uyuyuyuyuyuy</string>
+    <string name="s2">"Выберите язык приложения"</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="belarus">Belarussian</string>
+</resources>
